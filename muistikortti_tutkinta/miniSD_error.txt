@@ -1,0 +1,50 @@
+E:\Tools\muistikortti_tutkinta>perl FatCheck.pl g:
+*** Image file ***
+//./g:
+
+Using Win32API file handling
+
+*** Boot Sector ***
+OEM name: "EPOC    "
+Bytes Per Sector: 0x200
+Sectors per cluster: 32
+Reserved sectors: 1
+Number of FATs: 2
+Number of root dir entries: 512
+Total sectors: 0xF1DA30000 = 507 Mb
+Sectors per FAT: 121
+Hidden sectors: 237
+Volume label: "           "
+FAT file system type: "FAT16   "
+
+*** FAT ***
+FAT1 readed
+FAT2 OK
+
+*** Directory structure ***
+/ End of directory
+
+
+*** Cluster chain errors ***
+None
+
+*** Cross linked files ***
+None
+
+*** File size errors ***
+None
+
+*** Missing "." or ".." directories ***
+None
+
+*** Statistics ***
+Differences between FATs: 0
+Cluster chain errors: 0
+Lost clusters: 0 = 0 bytes = 0 Mb
+Cross linked files: 0
+File size errors: 0
+Missing "." or ".." directories: 0
+
+No errors found
+
+E:\Tools\muistikortti_tutkinta>

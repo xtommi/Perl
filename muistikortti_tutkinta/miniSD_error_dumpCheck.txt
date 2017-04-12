@@ -1,0 +1,15 @@
+E:\Tools\muistikortti_tutkinta>perl DumpCheck.pl g:
+All data from drive G: will be lost!
+Is this OK? [y/N]
+y
+Drive G: has 990626 sectors
+
+** Cycle: 0 / 1 **
+
+Phase 1 - Write and compare
+Sector 1
+Error on sector 1, offset 0
+Wrote ->06 57 b3 fc 95 51 69 21<-
+Read  ->00 00 00 00 00 00 00 00<-
+
+E:\Tools\muistikortti_tutkinta>
